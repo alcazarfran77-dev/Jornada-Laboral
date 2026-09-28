@@ -1,0 +1,20 @@
+{
+  "name": "Registro de Jornada IA",
+  "short_name": "Jornada IA",
+  "description": "Registro electrónico de jornada laboral con verificación facial, GPS y OTP",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f9f9f7",
+  "theme_color": "#2a78d6",
+  "lang": "es-MX",
+  "dir": "ltr",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
